@@ -1,0 +1,390 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-btn-refresh-hover {
+  background-image: url(../images/ixpic.png);
+  background-position: 0px 0px;
+  width: 27px;
+  height: 25px;
+}
+.icon-btn-refresh {
+  background-image: url(../images/ixpic.png);
+  background-position: -35px 0px;
+  width: 27px;
+  height: 25px;
+}
+.icon-close-hover {
+  background-image: url(../images/ixpic.png);
+  background-position: -70px -24px;
+  width: 14px;
+  height: 15px;
+}
+.icon-close {
+  background-image: url(../images/ixpic.png);
+  background-position: 0px -63px;
+  width: 14px;
+  height: 15px;
+}
+.icon-date {
+  background-image: url(../images/ixpic.png);
+  background-position: -30px -33px;
+  width: 19px;
+  height: 17px;
+}
+.icon-hint {
+  background-image: url(../images/ixpic.png);
+  background-position: 0px -33px;
+  width: 22px;
+  height: 22px;
+}
+.icon-ico-search {
+  background-image: url(../images/ixpic.png);
+  background-position: -70px 0px;
+  width: 16px;
+  height: 16px;
+}
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-login-text {
+  background-image: url(../images/logo.png);
+  background-position: -278px 0px;
+  width: 280px;
+  height: 45px;
+}
+.icon-logo {
+  background-image: url(../images/logo.png);
+  background-position: 0px 0px;
+  width: 270px;
+  height: 50px;
+}
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-anchor {
+  background-image: url(../images/pic.png);
+  background-position: -665px -307px;
+  width: 11px;
+  height: 9px;
+}
+.icon-bell {
+  background-image: url(../images/pic.png);
+  background-position: -594px -198px;
+  width: 80px;
+  height: 50px;
+}
+.icon-circle-normal {
+  background-image: url(../images/pic.png);
+  background-position: -594px -469px;
+  width: 80px;
+  height: 24px;
+}
+.icon-circle-rect {
+  background-image: url(../images/pic.png);
+  background-position: -495px -445px;
+  width: 80px;
+  height: 24px;
+}
+.icon-dis-next-time {
+  background-image: url(../images/pic.png);
+  background-position: -313px -425px;
+  width: 25px;
+  height: 12px;
+}
+.icon-dis-prev-time {
+  background-image: url(../images/pic.png);
+  background-position: -148px -425px;
+  width: 25px;
+  height: 12px;
+}
+.icon-flow-down {
+  background-image: url(../images/pic.png);
+  background-position: -665px -445px;
+  width: 11px;
+  height: 14px;
+}
+.icon-flow-up {
+  background-image: url(../images/pic.png);
+  background-position: -665px -376px;
+  width: 11px;
+  height: 14px;
+}
+.icon-folder {
+  background-image: url(../images/pic.png);
+  background-position: -534px -328px;
+  width: 36px;
+  height: 21px;
+}
+.icon-gear {
+  background-image: url(../images/pic.png);
+  background-position: -297px 0px;
+  width: 289px;
+  height: 289px;
+}
+.icon-glass {
+  background-image: url(../images/pic.png);
+  background-position: -148px -297px;
+  width: 120px;
+  height: 120px;
+}
+.icon-login-account {
+  background-image: url(../images/pic.png);
+  background-position: -665px -256px;
+  width: 18px;
+  height: 18px;
+}
+.icon-login-hover {
+  background-image: url(../images/pic.png);
+  background-position: -276px -374px;
+  width: 300px;
+  height: 36px;
+}
+.icon-login-password {
+  background-image: url(../images/pic.png);
+  background-position: -665px -327px;
+  width: 14px;
+  height: 18px;
+}
+.icon-login {
+  background-image: url(../images/pic.png);
+  background-position: -187px -445px;
+  width: 300px;
+  height: 36px;
+}
+.icon-logout {
+  background-image: url(../images/pic.png);
+  background-position: -665px -421px;
+  width: 14px;
+  height: 16px;
+}
+.icon-next-time-hover {
+  background-image: url(../images/pic.png);
+  background-position: -280px -425px;
+  width: 25px;
+  height: 12px;
+}
+.icon-next-time {
+  background-image: url(../images/pic.png);
+  background-position: -247px -425px;
+  width: 25px;
+  height: 12px;
+}
+.icon-pie-inside {
+  background-image: url(../images/pic.png);
+  background-position: 0px -297px;
+  width: 140px;
+  height: 140px;
+}
+.icon-pie-outside {
+  background-image: url(../images/pic.png);
+  background-position: 0px 0px;
+  width: 289px;
+  height: 289px;
+}
+.icon-prev-time-hover {
+  background-image: url(../images/pic.png);
+  background-position: -214px -425px;
+  width: 25px;
+  height: 12px;
+}
+.icon-prev-time {
+  background-image: url(../images/pic.png);
+  background-position: -181px -425px;
+  width: 25px;
+  height: 12px;
+}
+.icon-rack-add-hover {
+  background-image: url(../images/pic.png);
+  background-position: -594px -99px;
+  width: 90px;
+  height: 91px;
+}
+.icon-rack-add {
+  background-image: url(../images/pic.png);
+  background-position: -594px 0px;
+  width: 90px;
+  height: 91px;
+}
+.icon-rack-backEl {
+  background-image: url(../images/pic.png);
+  background-position: -276px -297px;
+  width: 179px;
+  height: 69px;
+}
+.icon-rack-delete-hover {
+  background-image: url(../images/pic.png);
+  background-position: -415px -489px;
+  width: 20px;
+  height: 20px;
+}
+.icon-rack-delete {
+  background-image: url(../images/pic.png);
+  background-position: -331px -489px;
+  width: 20px;
+  height: 20px;
+}
+.icon-rack-edit-hover {
+  background-image: url(../images/pic.png);
+  background-position: -359px -489px;
+  width: 20px;
+  height: 20px;
+}
+.icon-rack-edit {
+  background-image: url(../images/pic.png);
+  background-position: -387px -489px;
+  width: 20px;
+  height: 20px;
+}
+.icon-rack-element {
+  background-image: url(../images/pic.png);
+  background-position: -594px -501px;
+  width: 40px;
+  height: 10px;
+}
+.icon-rack-frontEl {
+  background-image: url(../images/pic.png);
+  background-position: 0px -445px;
+  width: 179px;
+  height: 69px;
+}
+.icon-rack-left-disable {
+  background-image: url(../images/pic.png);
+  background-position: -463px -297px;
+  width: 63px;
+  height: 63px;
+}
+.icon-rack-left-hover {
+  background-image: url(../images/pic.png);
+  background-position: -594px -398px;
+  width: 63px;
+  height: 63px;
+}
+.icon-rack-left {
+  background-image: url(../images/pic.png);
+  background-position: -594px -256px;
+  width: 63px;
+  height: 63px;
+}
+.icon-rack-right-disable {
+  background-image: url(../images/pic.png);
+  background-position: -594px -327px;
+  width: 63px;
+  height: 63px;
+}
+.icon-rack-right-hover {
+  background-image: url(../images/pic.png);
+  background-position: -71px -522px;
+  width: 63px;
+  height: 63px;
+}
+.icon-rack-right {
+  background-image: url(../images/pic.png);
+  background-position: 0px -522px;
+  width: 63px;
+  height: 63px;
+}
+.icon-rack-slide-back {
+  background-image: url(../images/pic.png);
+  background-position: -263px -489px;
+  width: 26px;
+  height: 20px;
+}
+.icon-rack-slide-front {
+  background-image: url(../images/pic.png);
+  background-position: -297px -489px;
+  width: 26px;
+  height: 20px;
+}
+.icon-rack-slide {
+  background-image: url(../images/pic.png);
+  background-position: -443px -489px;
+  width: 24px;
+  height: 16px;
+}
+.icon-rt-bg {
+  background-image: url(../images/pic.png);
+  background-position: -534px -297px;
+  width: 42px;
+  height: 23px;
+}
+.icon-rt-circle {
+  background-image: url(../images/pic.png);
+  background-position: -665px -282px;
+  width: 17px;
+  height: 17px;
+}
+.icon-rt-point {
+  background-image: url(../images/pic.png);
+  background-position: -642px -501px;
+  width: 7px;
+  height: 7px;
+}
+.icon-shopping-close-hover {
+  background-image: url(../images/pic.png);
+  background-position: -665px -353px;
+  width: 15px;
+  height: 15px;
+}
+.icon-shopping-close {
+  background-image: url(../images/pic.png);
+  background-position: -665px -398px;
+  width: 15px;
+  height: 15px;
+}
+.icon-tree-node {
+  background-image: url(../images/pic.png);
+  background-position: -225px -489px;
+  width: 30px;
+  height: 23px;
+}
+.icon-tree-root {
+  background-image: url(../images/pic.png);
+  background-position: -187px -489px;
+  width: 30px;
+  height: 23px;
+}
